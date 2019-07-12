@@ -1,16 +1,11 @@
-# new_project_flutter
+# Pratica-Flutter
 
-A new Flutter project.
+Um Projeto flutter para melhorar minha habilidades com os widgets
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+<a href="https://imgflip.com/gif/35hvi2"><img src="https://i.imgflip.com/35hvi2.gif" title="made at imgflip.com"/></a>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Caso se interesse em utilizar, esse maravilhoso framework, basta acessar sua documentação.
+[online documentation](https://flutter.dev/docs), é rica, com muitos exemplos e repleta de dicas.
